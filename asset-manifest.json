@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git@github.com:web-dev-jackie/components.git/static/css/main.63ec898e.css",
+    "main.js": "/git@github.com:web-dev-jackie/components.git/static/js/main.48f91145.js",
+    "index.html": "/git@github.com:web-dev-jackie/components.git/index.html",
+    "main.63ec898e.css.map": "/git@github.com:web-dev-jackie/components.git/static/css/main.63ec898e.css.map",
+    "main.48f91145.js.map": "/git@github.com:web-dev-jackie/components.git/static/js/main.48f91145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ec898e.css",
+    "static/js/main.48f91145.js"
+  ]
+}
